@@ -59,3 +59,5 @@ const Pagination = () =>{
 }
 
 export default Pagination;
+
+//This is the example of pagination while fetch the api
